@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57a06ce3-e778-49a6-baed-6233b5179c49" name="Default Changelist" comment="Help">
+    <list default="true" id="57a06ce3-e778-49a6-baed-6233b5179c49" name="Default Changelist" comment="Add Scaffolding items">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RazorPagesMovie/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RazorPagesMovie/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RazorPagesMovie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RazorPagesMovie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Data/RazorPagesMovieContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Data/RazorPagesMovieContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Migrations/20200325014051_InitialCreate.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Migrations/20200325014051_InitialCreate.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Migrations/RazorPagesMovieContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Migrations/RazorPagesMovieContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Create.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Create.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Create.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Delete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Delete.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Delete.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Details.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Details.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Details.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Details.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Edit.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Edit.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Index.cshtml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RazorPagesMovie/RazorPagesMovie.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/RazorPagesMovie.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,22 +34,41 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Details.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Delete.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Details.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Models/Movie.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cshtml" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Migrations/RazorPagesMovieContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Data/RazorPagesMovieContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Edit.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Create.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Edit.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Delete.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Details.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Edit.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Create.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Edit.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Delete.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Create.cshtml" />
         <option value="$PROJECT_DIR$/RazorPagesMovie/PagesMovies/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Index.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Edit.cshtml.cs" />
+        <option value="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Details.cshtml.cs" />
+        <option value="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Details.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Delete.cshtml.cs" />
+        <option value="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Create.cshtml.cs" />
+        <option value="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Index.cshtml.cs" />
+        <option value="$PROJECT_DIR$/RazorPagesMovie/Data/RazorPagesMovieContext.cs" />
+        <option value="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Create.cshtml" />
+        <option value="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Edit.cshtml" />
       </list>
     </option>
   </component>
@@ -98,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585098754833</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Scaffolding items">
+      <created>1585101039258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585101039258</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
@@ -116,6 +154,97 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Help" />
-    <option name="LAST_COMMIT_MESSAGE" value="Help" />
+    <MESSAGE value="Add Scaffolding items" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Scaffolding items" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1181" height="290" key="GridCell.Tab.0.bottom" timestamp="1585109152299">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="290" key="GridCell.Tab.0.bottom/0.23.2560.1057@0.23.2560.1057" timestamp="1585109152299" />
+    <state width="1181" height="290" key="GridCell.Tab.0.center" timestamp="1585109152298">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="290" key="GridCell.Tab.0.center/0.23.2560.1057@0.23.2560.1057" timestamp="1585109152298" />
+    <state width="1181" height="290" key="GridCell.Tab.0.left" timestamp="1585109152298">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="290" key="GridCell.Tab.0.left/0.23.2560.1057@0.23.2560.1057" timestamp="1585109152298" />
+    <state width="1181" height="290" key="GridCell.Tab.0.right" timestamp="1585109152298">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="290" key="GridCell.Tab.0.right/0.23.2560.1057@0.23.2560.1057" timestamp="1585109152298" />
+    <state width="1181" height="357" key="GridCell.Tab.1.bottom" timestamp="1585108008455">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.1.bottom/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008455" />
+    <state width="1181" height="357" key="GridCell.Tab.1.center" timestamp="1585108008454">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.1.center/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008454" />
+    <state width="1181" height="357" key="GridCell.Tab.1.left" timestamp="1585108008454">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.1.left/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008454" />
+    <state width="1181" height="357" key="GridCell.Tab.1.right" timestamp="1585108008454">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.1.right/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008454" />
+    <state width="1181" height="357" key="GridCell.Tab.2.bottom" timestamp="1585108008456">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.2.bottom/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008456" />
+    <state width="1181" height="357" key="GridCell.Tab.2.center" timestamp="1585108008455">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.2.center/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008455" />
+    <state width="1181" height="357" key="GridCell.Tab.2.left" timestamp="1585108008455">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.2.left/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008455" />
+    <state width="1181" height="357" key="GridCell.Tab.2.right" timestamp="1585108008455">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.2.right/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008455" />
+    <state width="1181" height="357" key="GridCell.Tab.3.bottom" timestamp="1585108008456">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.3.bottom/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008456" />
+    <state width="1181" height="357" key="GridCell.Tab.3.center" timestamp="1585108008456">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.3.center/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008456" />
+    <state width="1181" height="357" key="GridCell.Tab.3.left" timestamp="1585108008456">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.3.left/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008456" />
+    <state width="1181" height="357" key="GridCell.Tab.3.right" timestamp="1585108008456">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.3.right/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008456" />
+    <state width="1181" height="357" key="GridCell.Tab.4.bottom" timestamp="1585108008457">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.4.bottom/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008457" />
+    <state width="1181" height="357" key="GridCell.Tab.4.center" timestamp="1585108008457">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.4.center/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008457" />
+    <state width="1181" height="357" key="GridCell.Tab.4.left" timestamp="1585108008457">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.4.left/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008457" />
+    <state width="1181" height="357" key="GridCell.Tab.4.right" timestamp="1585108008457">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1181" height="357" key="GridCell.Tab.4.right/0.23.2560.1057@0.23.2560.1057" timestamp="1585108008457" />
+    <state x="426" y="291" key="Vcs.Push.Dialog.v2" timestamp="1585101050171">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="426" y="291" key="Vcs.Push.Dialog.v2/0.23.2560.1057@0.23.2560.1057" timestamp="1585101050171" />
+    <state x="419" y="256" key="search.everywhere.popup" timestamp="1585109201094">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="419" y="256" key="search.everywhere.popup/0.23.2560.1057@0.23.2560.1057" timestamp="1585109201094" />
   </component>
 </project>
